@@ -22,7 +22,7 @@
 
 - title: Quantifying human diversity in open data repositories
   group: featured
-  image: images/rnaseqdiversityfig2.png
+  image: images/projects/rnaseqdiversityfig2.png
   link: https://doi.org/10.1101/2024.10.11.617967
   description: The lack of diversity in human genetics datasets has been well-documented, especially at the DNA level. We are interested in looking beyond that, and quantifying both the downstream consequences of existing biases in the field, as well as diversity in other modalities of data, with a current focus on transcriptomics.  
   tags:
